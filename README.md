@@ -4,6 +4,6 @@
 > apt upgrade
 > apt install python2 -y
 > apt install git -y
-> git clone https://github.com/abox95 tampilan
+> git clone https://github.com/abox-com
 > cd T4MPILAN
 > python2 style5.py

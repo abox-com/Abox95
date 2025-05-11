@@ -1,9 +1,9 @@
-> pkg upgrade
-> pkg update
-> apt update
-> apt upgrade
-> apt install python2 -y
-> apt install git -y
-> git clone https://github.com/abox-com
-> cd T4MPILAN
-> python2 style5.py
+> bld 5
+> rongkong 20
+> sayap 15
+> pp 5
+> pu 5
+> pa 5
+> ckr 5
+> kpla 5
+> ati 50
